@@ -56,7 +56,7 @@ button:hover {
 
 @keyframes enter {
     0% {left: -200px;}
-    100% {opacity: 0.2; left: 900px;}
+    100% {opacity: 0.2; left: 80%;}
 }
 
 .image-sec {
